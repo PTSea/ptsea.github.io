@@ -1,3 +1,8 @@
+layout: page
+title: "About Me"
+permalink: /about
+
+
 Detail-oriented Software Engineer with 8+ years of experience in software development and a proven track record of delivering high
 quality software solutions. Demonstrated ability to optimize software performance and enhance code maintainability, improving
 customer and developer experiences. Strong verbal and written communication skills.
